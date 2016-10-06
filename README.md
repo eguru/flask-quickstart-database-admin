@@ -1,8 +1,6 @@
 # Flask Quickstart With Database And Flask Admin
 
-# Flask Quickstart With Database
-
-The Quickstart With Database project gives a quick setup to a dummy project that has a database. This project only gives bare minimum code required to get started.
+The Quickstart project provide a quick setup to a dummy project that has a database and an admin panel. This project only gives bare minimum code required to get started.
 
 For other quickstart projects, refer to the following projects:
 
